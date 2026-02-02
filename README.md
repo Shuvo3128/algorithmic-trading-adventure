@@ -89,8 +89,12 @@ When the program runs, it will:
   - Buy (▲) and Sell (▼) points
 
 ### Example Output
+
+
 FINAL RESULT: PROFIT
 Final Profit / Loss: 10075.00
+
+
 
 ### 📉 Strategy Visualization Example
 
@@ -105,4 +109,5 @@ Final Profit / Loss: 10075.00
 
 
 ```
+
 
