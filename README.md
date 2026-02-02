@@ -54,6 +54,7 @@ Algorithmic Trading Adventure/
 └── README.md
 
 
+
 ##  How to Run the Project
 
 ###  Clone the Repository
@@ -86,8 +87,10 @@ Final Profit / Loss: 10075.00
 
 ### 📉 Strategy Visualization Example
 
-![Golden Cross Trading Strategy Result](<img width="1736" height="901" alt="trading_result" src="https://github.com/user-attachments/assets/ce9d8fdf-273c-495b-936a-2391eff1aa0c" />
-)
+![Golden Cross Trading Strategy Result](### 📉 Strategy Visualization Example
+
+![Golden Cross Trading Strategy Result](trading_result.png)
+
 
 
 
