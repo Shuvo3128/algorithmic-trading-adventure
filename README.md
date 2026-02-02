@@ -68,6 +68,28 @@ pip install -r requirements.txt
 python trading_bot.py
 
 ## Output
+## 📊 Output
+
+When the program runs, it will:
+
+- Print **BUY** and **SELL** actions in the terminal  
+- Display the **final profit or loss**  
+- Open a **graph window** showing:
+  - Close price  
+  - 50-day moving average  
+  - 200-day moving average  
+  - Buy (▲) and Sell (▼) points  
+
+### Example Output
+FINAL RESULT: PROFIT 
+Final Profit / Loss: 10075.00
+
+### 📉 Strategy Visualization Example
+
+![Golden Cross Trading Strategy Result](<img width="1736" height="901" alt="trading_result" src="https://github.com/user-attachments/assets/ce9d8fdf-273c-495b-936a-2391eff1aa0c" />
+)
+
+
 
 
 
