@@ -58,7 +58,8 @@ Algorithmic Trading Adventure/
 │
 ├── trading_bot.py
 ├── requirements.txt
-└── README.md
+├── README.md
+└── trading_result.png
 
 ## How to Run the Project
 
