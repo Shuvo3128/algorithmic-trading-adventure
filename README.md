@@ -51,7 +51,7 @@ The project performs **paper trading (simulation)** and evaluates performance by
 - **Object-Oriented Programming (OOP)**
 
 ---
-
+''
 ## 📁 Project Structure
 '''
 Algorithmic Trading Adventure/
@@ -100,6 +100,7 @@ Final Profit / Loss: 10075.00
 ### 📉 Strategy Visualization Example
 
 ![Golden Cross Trading Strategy Result](./trading_result.png)
+
 
 
 
