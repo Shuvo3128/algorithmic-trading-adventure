@@ -53,7 +53,7 @@ The project performs **paper trading (simulation)** and evaluates performance by
 ---
 
 ## 📁 Project Structure
-'''
+'''Text
 Algorithmic Trading Adventure/
 │
 ├── trading_bot.py
@@ -100,6 +100,7 @@ Final Profit / Loss: 10075.00
 ### 📉 Strategy Visualization Example
 
 ![Golden Cross Trading Strategy Result](./trading_result.png)
+
 
 
 
